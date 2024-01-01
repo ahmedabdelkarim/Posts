@@ -24,3 +24,11 @@ Posts list with ability to add/edit post
 2. Open the project on Xcode
 3. Install pods using terminal command "pod install" from the main project directory
 4. Run the project on simulator or real device
+
+**User Interface Screenshots:**
+
+![posts](https://github.com/ahmedabdelkarim/Posts-iOS/blob/main/Screenshots/posts.jpeg)
+
+![post_details](https://github.com/ahmedabdelkarim/Posts-iOS/blob/main/Screenshots/post_details.jpeg)
+
+![add_edit_post](https://github.com/ahmedabdelkarim/Posts-iOS/blob/main/Screenshots/add_edit_post.jpeg)
