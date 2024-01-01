@@ -25,7 +25,7 @@ Posts list with ability to add/edit post
 3. Install pods using terminal command "pod install" from the main project directory
 4. Run the project on simulator or real device
 
-**User Interface Screenshots:**
+# User Interface Screenshots:**
 
 <br/>
 <br/>
