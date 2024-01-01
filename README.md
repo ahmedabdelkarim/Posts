@@ -20,7 +20,7 @@ Posts list with ability to add/edit post
 * Unit Testing Demo
 
 # How to Run
-1. Clone hte repository
+1. Clone the repository
 2. Open the project on Xcode
 3. Install pods using terminal command "pod install" from the main project directory
 4. Run the project on simulator or real device
