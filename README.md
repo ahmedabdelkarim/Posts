@@ -18,3 +18,9 @@ Posts list with ability to add/edit post
 * Delay loading original size images in details
 * SwiftLint (CocoaPod)
 * Unit Testing Demo
+
+# How to Run
+1. Clone hte repository
+2. Open the project on Xcode
+3. Install pods using terminal command "pod install" from the main project directory
+4. Run the project on simulator or real device
