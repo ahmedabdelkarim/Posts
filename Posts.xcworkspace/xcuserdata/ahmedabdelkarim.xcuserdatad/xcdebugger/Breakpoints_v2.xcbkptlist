@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "22A4DD41-41F9-4EA1-A6AC-832B7FFE9D35"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "403B950A-BE2A-4C12-8D32-94057640A19B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Posts/Network/Posts/Posts/PostsRequests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "bodyParameters"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "403B950A-BE2A-4C12-8D32-94057640A19B - 566180428768bc1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Posts.PostsRequests.bodyParameters.getter : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Posts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdelkarim/Desktop/Posts/Posts/Network/Posts/Posts/PostsRequests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "403B950A-BE2A-4C12-8D32-94057640A19B - 566180428768bd60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Posts.PostsRequests.bodyParameters.getter : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;"
+                  moduleName = "Posts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdelkarim/Desktop/Posts/Posts/Network/Posts/Posts/PostsRequests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09223070-E3B4-4257-B6E5-823036B1044B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Posts/Network/Http/HttpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "perform(request:responseType:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09223070-E3B4-4257-B6E5-823036B1044B - 71beb5d9d31c8178"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Posts.HttpClient.perform&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(request: Posts.HttpRequest, responseType: &#x3c4;_0_0.Type, success: (Posts.HttpResponse&lt;&#x3c4;_0_0&gt;) -&gt; (), failure: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Posts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdelkarim/Desktop/Posts/Posts/Network/Http/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "09223070-E3B4-4257-B6E5-823036B1044B - 561dc81892cde7c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Posts.HttpClient.perform&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(request: Posts.HttpRequest, responseType: &#x3c4;_0_0.Type, success: (Posts.HttpResponse&lt;&#x3c4;_0_0&gt;) -&gt; (), failure: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Posts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdelkarim/Desktop/Posts/Posts/Network/Http/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28C6713C-CD74-4F03-95F0-1E4550C035E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Posts/Network/Http/HttpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "perform(request:responseType:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A304069F-6484-4B8F-8ED8-522845E40603"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Posts/Modules/Posts/Views/ViewControllers/PostDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "addPostViewController(_:didAdd:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A304069F-6484-4B8F-8ED8-522845E40603 - 25f833679a2247ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Posts.PostDetailsViewController.addPostViewControllerDidAddPost(Posts.AddPostViewController) -&gt; ()"
+                  moduleName = "Posts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdelkarim/Desktop/Posts/Posts/Modules/Posts/Views/ViewControllers/PostDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "A304069F-6484-4B8F-8ED8-522845E40603 - 25f833679a2247ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Posts.PostDetailsViewController.addPostViewControllerDidAddPost(Posts.AddPostViewController) -&gt; ()"
+                  moduleName = "Posts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdelkarim/Desktop/Posts/Posts/Modules/Posts/Views/ViewControllers/PostDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "A304069F-6484-4B8F-8ED8-522845E40603 - b4dbee175ed95cac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in Posts.PostDetailsViewController.addPostViewController(_: Posts.AddPostViewController, didAdd: Posts.Post) -&gt; ()"
+                  moduleName = "Posts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedabdelkarim/Desktop/Posts/Posts/Modules/Posts/Views/ViewControllers/PostDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13083A24-BFE4-4DC7-9B08-4D377D6E2F9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Posts/Network/Posts/Posts/PostsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "editPost(_:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D04E72B-367A-4FAA-B61C-247449088772"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Posts/Network/Posts/Posts/PostsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "addPost(_:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E14446A-0CEE-46E8-85E1-405006AF5C09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Posts/Modules/Posts/Views/ViewControllers/PostsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "loadPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
